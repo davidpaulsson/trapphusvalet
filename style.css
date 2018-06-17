@@ -7,7 +7,7 @@
 }
 
 html {
-  font-family: 'Futura PT', 'Futura', sans-serif;
+  font-family: 'Futura PT', sans-serif;
   font-size: 100%;
   -webkit-font-smoothing: antialiased;
   text-align: center;
@@ -56,10 +56,10 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Futura PT', 'Futura', sans-serif;
+  font-family: 'Futura PT', sans-serif;
   margin: 0 0 1.5rem 0;
   line-height: 1.2;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 h1 {
